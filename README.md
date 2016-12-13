@@ -1,7 +1,7 @@
 # CubeConvergence
 My rubiks cube nightmare.
 
-Never try to model the rubicks cube, is the advice I wish I had when I started this rabit hole...
+Never try to model the rubicks cube, is the advice I wish I had when I started this rabbit hole...
 
 This is my attempt at modeling a rubicks cube.
 
